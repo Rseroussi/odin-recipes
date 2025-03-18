@@ -1,0 +1,1 @@
+this is a simple website with the odin project. Its suppose to just use html to make a recipes website.
