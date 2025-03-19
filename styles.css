@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+    color: red;
+}
+
+h1 {
+    background-color: hsl(199, 77%, 65%);
+    font-weight: bold;
+}
+
+.title {
+    color: rgb(59, 33, 9);
+    font: helvetica,sans-serif;
+}
+
+.ingredients {
+    background-color: yellowgreen;
+    color: white;
+
+}
+
+.directions {
+    font-weight: bold;
+}
